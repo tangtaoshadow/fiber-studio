@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.338d93000a249fdec9c53cafb18dd1c9.js"
+  "https://tangtaoshadow.github.io/fiber-studio/precache-manifest.bc05556a75b76c6be68f677be8fbb8a8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fiber-visualization"});
